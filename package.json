@@ -6,5 +6,11 @@
   "repository": "https://github.com/skyslope/bulk-export-api.git",
   "author": "ebaah@skyslope.com",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1"
+  }
 }
