@@ -7,6 +7,9 @@
   "author": "ebaah@skyslope.com",
   "license": "MIT",
   "private": true,
+    "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "crypto": "^1.0.1",
     "dotenv": "^8.2.0",
