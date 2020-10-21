@@ -1,0 +1,10 @@
+{
+  "name": "bulk-export-api-example",
+  "version": "1.0.0",
+  "description": "Sample code to call the SkySlope Bulk Export. Valid credentials must be used in the example env file and the file should be renamed to .env",
+  "main": "index.js",
+  "repository": "https://github.com/skyslope/bulk-export-api.git",
+  "author": "ebaah@skyslope.com",
+  "license": "MIT",
+  "private": true
+}
