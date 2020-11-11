@@ -9,7 +9,7 @@
 3. Replace the values in the .sampleENV file with your data and rename the file to `.env` from `.sampleENV`
 4. Install the modules: dotenv, crypto, moment, and node-fetch: `yarn add dotenv crypto moment node-fetch`
 5. Run the script: `yarn start`
-6. A successful result will look like the following. **By default, the API returns files created with the last seven (7) days**, unless specified in the `Start_Date` in the .env file:
+6. A successful result will look like the following. **By default, the API returns files created within the last seven (7) days**, unless specified in the `Start_Date` in the .env file:
     - ```[
             { 
                 objectType: 'sale',
